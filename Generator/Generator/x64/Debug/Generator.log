@@ -1,1 +1,5 @@
-﻿  Generator.vcxproj -> C:\Users\3T\Desktop\c++\Generator\x64\Debug\Generator.exe
+﻿  Generator.cpp
+C:\Users\3T\Documents\GitHub\C---SQL-generator\Generator\Generator\Generator.cpp(45,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\3T\Documents\GitHub\C---SQL-generator\Generator\Generator\Generator.cpp(91,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\3T\Documents\GitHub\C---SQL-generator\Generator\Generator\Generator.cpp(242,45): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Generator.vcxproj -> C:\Users\3T\Documents\GitHub\C---SQL-generator\Generator\x64\Debug\Generator.exe

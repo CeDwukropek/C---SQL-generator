@@ -393,14 +393,14 @@ void kod(int ile, string* tablica_kody)
     for (int i = 0; i < ile;)
     {
 
-        liczba = rand() % 4 + 1;
-        znak = 'a' + rand() % 4;
+        liczba = rand() % 900 + 100;
+        znak = 'A' + rand() % 26;
 
         ostringstream ss;
         ss << liczba;
         string str = ss.str();
 
-        kod = str + znak;
+        kod = znak + str;
 
         for (int j = 0; j <= i; j++)
         {
