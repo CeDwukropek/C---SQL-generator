@@ -1,3 +1,3 @@
 # C++ SQL generator
  
-opcja KOD jeszcze sie psuje
+Working Query Generator for databases. Creates inserts/updates to zapytania.txt.
